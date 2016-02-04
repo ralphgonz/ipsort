@@ -2,6 +2,8 @@
 # ipsort
 # R. Gonzalez 2016-01-29
 #
+#   perl ipsort.pl < inputfile > outputfile
+#
 # External sort leveraging built-in sort function
 # Mostly old-skool procedural plus OOP
 #
